@@ -1,25 +1,8 @@
-Symfony 2 Starter Kit
+Null Blog App
 ========================
 
-Based on "Symfony Standard Edition" with some additional features added in.
+Based on "Symfony 2 Starter Kit" (https://github.com/nulldevelopment/sf2sk).
 
-2014-10-11
+2014-10-12
 =====
-Version: 2.5.5
-
-2014-09-25
-=====
-Version: 2.5.4
-
-2014-08-09
-=====
-Version: 2.5.3
-
-2014-08-03
-=====
-Version: 2.5.2
-
-2014-06-26
-=====
-Version: 2.5.0
-
+Version: 0.0.1
